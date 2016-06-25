@@ -1,0 +1,1 @@
+/home/vero/Documents/varekbot/build/CMakeFiles/main.dir
